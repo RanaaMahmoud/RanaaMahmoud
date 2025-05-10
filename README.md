@@ -1,7 +1,10 @@
 # 👋 Welcome to My GitHub!
 
-Hi! I'm a passionate **Computer Vision**, especially in **medical AI applications**. I enjoy building impactful models from scratch and bringing intelligent solutions to real-world problems. 🌍💡
+I’m Rana Mahmoud, a fresh graduate from the **Class of 2024** with a degree in **Computer Science**. I'm deeply interested in **AI applications in healthcare**, especially **computer vision** for medical diagnostics.  
 
+I’m also expanding into **AI in cybersecurity** and have a strong passion for **penetration testing** and ethical hacking. I believe in continuous learning and love building smart systems that solve real-world problems.
+
+When I'm not coding, you might find me teaching kids programming and AI, or exploring new technologies.
 ---
 
 ## 🧠 What I Do
