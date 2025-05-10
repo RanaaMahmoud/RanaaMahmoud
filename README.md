@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Welcome to My GitHub!
 
-<!--
-**RanaaMahmoud/RanaaMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a passionate **Computer Vision**, especially in **medical AI applications**. I enjoy building impactful models from scratch and bringing intelligent solutions to real-world problems. 🌍💡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- 💻 Deep Learning & AI for healthcare 
+- 🔐 Exploring the intersection of **AI and Cybersecurity**
+- 🛡️ Eager to grow as a **Penetration Tester** and ethical hacker
+---
+
+## 📫 Let's Connect
+- 📍 Based in Egypt
+- 📧 ranamahmoudddd@gmail.com
+
+---
+
+> “Keep learning, keep building, and never stop experimenting.” 🚀
