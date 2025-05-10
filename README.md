@@ -1,4 +1,4 @@
-# 👩‍💻 Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 
 Hi! I'm a passionate **Computer Vision**, especially in **medical AI applications**. I enjoy building impactful models from scratch and bringing intelligent solutions to real-world problems. 🌍💡
 
