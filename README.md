@@ -4,7 +4,7 @@ I’m Rana Mahmoud, a recent graduate of the Class of 2024 with a degree in Comp
 ---
 
 ## 🧠 My work 
-- **[Launch the App](https://breastcancerclassification-fkyl7yjknvkjk4wdqcgdgg.streamlit.app/)** Try Breast Cancer classfication
+- **[Breast Cancer classfication](https://breastcancerclassification-fkyl7yjknvkjk4wdqcgdgg.streamlit.app/)**
 - 
 ---
 
