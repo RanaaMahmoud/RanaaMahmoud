@@ -1,10 +1,10 @@
-# 👋 Welcome to My GitHub!
+# 👋 Welcome to my GitHub!
 
-I’m Rana Mahmoud, a fresh graduate from the **Class of 2024** with a degree in **Computer Science**. 
+I’m Rana Mahmoud, a recent graduate of the Class of 2024 with a degree in Computer Science. 
 ---
 
 ## 🧠 My work 
-- https://bonefracturedetection-app-app-g7p9jsednhawdmkhbidwxe.streamlit.app/
+- **[Launch the App](https://breastcancerclassification-fkyl7yjknvkjk4wdqcgdgg.streamlit.app/)** Try Breast Cancer classfication
 - 
 ---
 
@@ -12,5 +12,3 @@ I’m Rana Mahmoud, a fresh graduate from the **Class of 2024** with a degree in
 - 📍 Based in Egypt
 - 📧 ranamahmoudddd@gmail.com
 
----
-HTML CSS JavaScript Python
