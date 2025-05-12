@@ -9,6 +9,6 @@ I’m Rana Mahmoud, a recent graduate of the Class of 2024 with a degree in Comp
 ---
 
 ## 📫 Let's Connect
-- 📍 Based in Egypt
+- 📧 https://www.linkedin.com/in/ranamahmoudmuhammed/
 - 📧 ranamahmoudddd@gmail.com
 
