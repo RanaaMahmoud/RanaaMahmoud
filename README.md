@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gardensillustrated.com%2Fplants%2Fpink-flowers&psig=AOvVaw0iQNX9ZcE4STLlJBkzDrNf&ust=1753884252860000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC0ppGe4o4DFQAAAAAdAAAAABAE]" alt="WELCOME Banner" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
 </p>
 
