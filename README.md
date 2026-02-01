@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+###👋 About Me
 
 I am a Network Security student at the Information Technology Institute (ITI), currently building a strong foundation in networking, system administration, and cybersecurity operations.
 
