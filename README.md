@@ -14,12 +14,10 @@
 
 ---
 
-## 🧠 Try My work 
-- **[Breast Cancer classfication](https://breastcancerclassification-fkyl7yjknvkjk4wdqcgdgg.streamlit.app/)**
-- **[BoneFracDetection](https://bonefractureclassification-vgqukayvd8kipm4ppnrvqh.streamlit.app/)**
+
 ---
 
-### 🔗 Connect with Me
+### 🔗 Contact Me
 
 <p align="center">
   <a href="https://github.com/RanaaMahmoud" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
