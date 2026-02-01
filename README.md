@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=E8E82E&center=true&vCenter=true&width=500&lines=Hi+I'm+Rana+Mahmoud" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Network Security | Software Developer | ITI Trainee
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=Hi+I'm+Rana+Mahmoud" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <strong>Software Developer</strong> | <strong>Network Security</strong> | <strong>ITI Trainee</strong>
