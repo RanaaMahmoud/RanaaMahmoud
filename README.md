@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=0F012B&center=true&vCenter=true&width=500&lines=Hi+I'm+Rana+Mahmoud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=E8E82E&center=true&vCenter=true&width=500&lines=Hi+I'm+Rana+Mahmoud" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Software Developer | Network Security | ITI Trainee
+  Network Security | Software Developer | ITI Trainee
 </p>
 
 
